@@ -8,7 +8,7 @@ const Hero = () => (
     <h1 className="mb-4"> BAT Cloud Automation</h1>
 
     <p className="lead">
-        <a href="https://reactjs.org">BAT CLoud Self-Service</a>
+        <a href="">BAT CLoud Self-Service</a>
     </p>
   </div>
 );
