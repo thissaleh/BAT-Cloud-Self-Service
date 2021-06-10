@@ -21,7 +21,7 @@ const providerConfig = {
   domain: config.domain,
   clientId: config.clientId,
   ...(config.audience ? { audience: config.audience } : null),
-  redirectUri: "https://main.dysrhzaxnkthk.amplifyapp.com/",
+  redirectUri: "https://https://prod.d265a2qp0mp71w.amplifyapp.com/",
   onRedirectCallback,
 };
 
